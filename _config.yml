@@ -5,13 +5,10 @@ url: "http://notes.remikalir.com" # the base hostname & protocol for your site e
 
 # User settings
 username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+user_description: remi
+user_title: remi kalir
+email: 
+twitter_username: remiholden
 
 # Build settings
 markdown: kramdown
